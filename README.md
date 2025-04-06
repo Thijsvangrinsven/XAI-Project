@@ -18,7 +18,7 @@ INSTALLATION STEPS
 4. Add the environment as a kernel:
    python -m ipykernel install --user --name=myenv --display-name "Python (myenv)"
 
-5. Open the Jupyter notebook file.
+5. Open the Jupyter notebook file (Final Project.ipynb.
 
 6. Select the Conda environment Kernel in Jupyter:
    a. At the top, click kernel -> change kernel
