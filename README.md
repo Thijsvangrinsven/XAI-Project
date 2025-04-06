@@ -1,6 +1,8 @@
 # XAI-Project
 XAI Final Project
 
+small warning: the installs you are about to do require quite a lot of memory, just like running the code.
+
 INSTALLATION STEPS
 1. Open Anaconda Prompt.
 
