@@ -15,7 +15,7 @@ INSTALLATION STEPS
       conda activate myenv
 
 3. Install packages:
-   pip install numpy pytorch shap matplotlib scikit-learn pandas seaborn tqdm scipy mplfinance -c conda-forge
+   pip install lime shap matplotlib scikit-learn pandas numpy seaborn torch tqdm scipy -c conda-forge
 
 4. Add the environment as a kernel:
    python -m ipykernel install --user --name=myenv --display-name "Python (myenv)"
